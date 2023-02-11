@@ -7,7 +7,8 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        height: 100vh;
+        height: 100
+vh;
       }
 
       form {
@@ -43,7 +44,7 @@
         background-color: blue;
         color: white;
         border: none;
-        border-radius: 5px;
+        border-radius: 4px;
         cursor: pointer;
         margin-top: 20px;
       }
@@ -51,7 +52,7 @@
   </head>
   <body>
     <form>
-      <h2>Professional Looking Form</h2>
+      <h2>DAWN SMP FORM</h2>
       <label for="name">Name:</label>
       <input type="text" id="name" name="name">
 
@@ -81,3 +82,4 @@
     </form>
   </body>
 </html>
+
